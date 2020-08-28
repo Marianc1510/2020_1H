@@ -1,0 +1,23 @@
+!SESSION 2020-08-25 18:23:41.473 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.8
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-08-25 21:08:16.168
+!MESSAGE Indexed 'Clase_1' (1 sources, 55 headers) in 4,8 sec: 973 declarations; 1.808 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+!SESSION 2020-08-27 18:34:28.264 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=11.0.8
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_AR
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-08-27 18:42:17.416
+!MESSAGE Indexed 'Clas_2' (1 sources, 55 headers) in 3,53 sec: 973 declarations; 1.808 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-08-27 20:59:10.913
+!MESSAGE Indexed 'Clase_2' (1 sources, 56 headers) in 1,18 sec: 1.002 declarations; 1.852 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0 %)

@@ -1,0 +1,19 @@
+20:59:45 **** Clean-only build of configuration Debug for project Clase_2 ****
+make clean 
+rm -rf  ./src/Clas_2.o  ./src/Clas_2.d  Clas_2
+ 
+20:59:46 **** Build of configuration Debug for project Clase_2 ****
+make all 
+Building file: ../src/Clas_2.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clas_2.d" -MT"src/Clas_2.o" -o "src/Clas_2.o" "../src/Clas_2.c"
+Finished building: ../src/Clas_2.c
+ 
+Building target: Clase_2
+Invoking: GCC C Linker
+gcc  -o "Clase_2"  ./src/Clas_2.o   
+Finished building target: Clase_2
+ 
+20:59:53 **** Incremental Build of configuration Debug for project Clase_2 ****
+make all 
+make: No se hace nada para 'all'.
